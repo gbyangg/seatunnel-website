@@ -4,7 +4,7 @@ sidebar_position: 14
 
 # Telemetry
 
-Integrating `Metrices` through `Prometheus-exports` can better seamlessly connect to related monitoring platforms such
+Integrating `Metrics` through `Prometheus-exports` can better seamlessly connect to related monitoring platforms such
 as Prometheus and Grafana, improving the ability to monitor and alarm of the SeaTunnel cluster.
 
 You can configure telemetry's configurations in the `seatunnel.yaml` file.
